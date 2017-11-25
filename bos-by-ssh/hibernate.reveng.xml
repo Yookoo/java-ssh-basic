@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table name="qp_noticebill" catalog="bos"
+		class="com.bos.bussiness.domain.Noticebill">
+		<primary-key>
+			<generator class="uuid"></generator>
+		</primary-key>
+	</table>
+	<table name="qp_workbill" catalog="bos"
+		class="com.bos.bussiness.domain.Workbill">
+		<primary-key>
+			<generator class="uuid"></generator>
+		</primary-key>
+	</table>
+	<table name="qp_workordermanage" catalog="bos"
+		class="com.bos.bussiness.domain.Workordermange">
+	</table>
+	<table name="auth_function" catalog="bos"
+		class="com.bos.bussiness.domain.Fucation">
+	</table>
+	<table name="auth_role" catalog="bos"
+		class="com.bos.bussiness.domain.Role">
+	</table>
+	<table name="t_user" catalog="bos" class="com.bos.bussiness.domain.User"></table>
+</hibernate-reverse-engineering>

@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Mar/2017:18:50:02 +0800] "POST /20170321_CRM/remoting/customer HTTP/1.1" 404 1011 http-bio-8088-exec-1 40
+127.0.0.1 - - [21/Mar/2017:18:54:29 +0800] "POST /20170321_CRM/remoting/customer HTTP/1.1" 404 1011 http-bio-8088-exec-3 4
+127.0.0.1 - - [21/Mar/2017:18:54:48 +0800] "GET /20170321_CRM/remoting/customer HTTP/1.1" 404 1011 http-bio-8088-exec-5 5
+127.0.0.1 - - [21/Mar/2017:18:54:48 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8088-exec-6 1
+127.0.0.1 - - [21/Mar/2017:18:54:48 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8088-exec-7 1
+127.0.0.1 - - [21/Mar/2017:18:57:37 +0800] "POST /remoting/customer HTTP/1.1" 200 322 http-bio-8088-exec-9 2238

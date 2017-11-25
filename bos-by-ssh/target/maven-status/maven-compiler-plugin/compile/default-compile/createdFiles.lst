@@ -1,0 +1,17 @@
+com\bos\bussiness\domain\Function.class
+com\bos\bussiness\service\IUserService.class
+com\bos\bussiness\domain\Role.class
+com\bos\bussiness\domain\User.class
+com\bos\bussiness\domain\Decidedzone.class
+com\bos\web\intercepter\LoginIntercepter.class
+com\bos\utils\PinYin4jUtils.class
+com\bos\bussiness\domain\Staff.class
+com\bos\bussiness\domain\Workbill.class
+com\bos\utils\MD5Utils.class
+com\bos\bussiness\domain\Workordermanage.class
+com\bos\bussiness\domain\Subarea.class
+com\bos\bussiness\domain\Noticebill.class
+com\bos\utils\FileUtils.class
+com\bos\bussiness\domain\Region.class
+cn\itcast\crm\sevice\CustomerService.class
+cn\itcast\crm\domain\Customer.class
