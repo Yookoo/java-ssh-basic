@@ -1,0 +1,94 @@
+.footer {
+	margin-top: 20px;
+	padding: 50px 0;
+	text-align: center;
+	color: #999;
+}
+
+.container-small {
+	max-width: 500px;
+}
+
+.radio-line {
+	margin-left: 20px
+}
+
+.radio-line:FIRST-CHILD {
+	margin-left: 0px
+}
+
+img {
+	margin-right: 5px;
+	display: block;
+	max-width: 100%;
+	border-radius: 3px;
+}
+
+.art-list-item {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #eee;
+}
+
+.art-list-item:first-child {
+	padding-top: 0;
+}
+
+.art-list-item .title {
+	display: block;
+	color: #444;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 8px;
+	line-height: 1.7;
+}
+
+.art-list-item .title:hover {
+	color: #337ab7;
+}
+
+.art-list-item .info {
+	color: #888;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/
+* -----------分页的样式 -------------------* /
+
+.center {
+	float: none;  
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto; 
+}
+
+.pagination a {
+	text-decoration: none;
+	border: solid 1px #AAE;
+	color: #15B;
+}
+
+.pagination a, .pagination span {
+	display: block;
+	float: left;
+	padding: 0.3em 0.5em;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	min-width: 1em;
+	text-align: center;
+}
+
+.pagination .current {
+	background: #26B;
+	color: #fff;
+	border: solid 1px #AAE;
+}
+
+.pagination .current.prev, .pagination .current.next {
+	color: #999;
+	border-color: #999;
+	background: #fff;
+}
